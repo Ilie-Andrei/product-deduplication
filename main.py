@@ -39,7 +39,7 @@ of any duplicate group) to get a final cleaned and deduplicated set.
 
 
 # Ask user for confirmation to continue
-answer = input(f"💡 We are about to to start the product deduplication.\n"
+answer = input(f"💡 We are about to start the product deduplication.\n"
                f"Press 'y' to continue or any other key to cancel: ")
 
 
